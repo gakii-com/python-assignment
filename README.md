@@ -26,4 +26,16 @@ This is a simple Python program that takes **two numbers** as input and performs
 3. Division-related operations are safely handled to avoid division by zero errors.
 
 ## 📷 Sample Output
+Enter the first number: 10
+Enter the second number: 3
+
+Results for numbers 10.0 and 3.0:
+
+Addition (+): 13.0
+Subtraction (-): 7.0
+Multiplication (*): 30.0
+Division (/): 3.3333333333333335
+Modulus (%): 1.0
+Floor Division (//): 3.0
+Exponentiation (**): 1000.0
 
